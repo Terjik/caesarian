@@ -18,7 +18,7 @@ Age,Delivery No,Delivery Time,Blood Pressure,Heart Problem,Caesarian
 25,1,Timely,Normal,apt,No
 20,1,Latecomer,High,apt,Yes
 37,3,Timely,Normal,inept,Yes
-24,1,Latecomer,low,inept,Yes
+24,1,Latecomer,Low,inept,Yes
 26,1,Premature,Normal,apt,No
 33,2,Timely,Low,inept,Yes
 25,1,Premature,High,apt,No

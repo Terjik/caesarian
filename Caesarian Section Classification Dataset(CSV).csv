@@ -8,7 +8,7 @@ Age,Delivey No,Delivery No,Blood of Pressure,Heart Problem,Caesarian
 27,2,Timely,Normal,apt,No
 32,3,Timely,Normal,apt,Yes
 28,2,Timely,Normal,apt,No
-27,1,Premature,Normal,apt,yes
+27,1,Premature,Normal,apt,Yes
 36,1,Timely,Normal,apt,No
 33,1,Premature,Low,apt,Yes
 23,1,Premature,Normal,apt,No
@@ -16,9 +16,9 @@ Age,Delivey No,Delivery No,Blood of Pressure,Heart Problem,Caesarian
 29,1,Latecomer,Low,inept,Yes
 25,1,Latecomer,Low,apt,No
 25,1,Timely,Normal,apt,No
-20,1,Latecomer,High,apt,yes
-37,3,Timely,Normal,inept,yes
-24,1,Latecomer,low,inept,yes
+20,1,Latecomer,High,apt,Yes
+37,3,Timely,Normal,inept,Yes
+24,1,Latecomer,low,inept,Yes
 26,1,Premature,Normal,apt,No
 33,2,Timely,Low,inept,Yes
 25,1,Premature,High,apt,No
